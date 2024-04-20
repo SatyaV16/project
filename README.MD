@@ -3,4 +3,4 @@
 project created on local 
 created by 
 # satya
-new feature added as script.js
+new feature js file added
